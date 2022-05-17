@@ -1,0 +1,9 @@
+SEQUENCIA
+amarzenam multiplos objetos em uma unica  variavel
+cada objeto tem um indice que indica sua posiçao dentro da lista
+o indice 0 refere se ao primeiro elemento de uma lista
+#a funçao len() informa a qunatidade de objetos em uma linha 
+#a list() altera um tipo de objeto para list e tambem para criar uma nova lista
+Sintaxe para acessar um objeto é:variavel[índice]
+print (minhaLista[:4]) # Imprime ['Taiba; 'inguape; 'percem; 'cumbuco '] (4 - 1)
+a strutura "in" e ultilizada para checar se um determinado objeto
